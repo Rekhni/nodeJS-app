@@ -27,8 +27,20 @@ form {
   height: 20rem;
 }
 
+.product_detail__image img {
+  width: 65%;
+  height: 65%;
+}
+
+.product_image {
+  height: 1000px;
+  width: 1000px;
+
+}
+
 .image img {
   height: 100%;
+  width: 100%;
 }
 
 .main-header {
